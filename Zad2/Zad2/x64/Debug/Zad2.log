@@ -1,0 +1,10 @@
+﻿  Zad2.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(16,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,22): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,27): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,27): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,32): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(47,32): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\Zad2\Zad2.cpp(53,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Zad2.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\Zad2\x64\Debug\Zad2.exe

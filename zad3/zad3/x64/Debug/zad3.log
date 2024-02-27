@@ -1,0 +1,3 @@
+﻿  zad3.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\zad3\zad3\zad3.cpp(8,22): warning C4305: "inicjowanie": obcięcie z "double" do "const float"
+  zad3.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\24.02.27\zad3\x64\Debug\zad3.exe
